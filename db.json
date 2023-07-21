@@ -5,6 +5,6 @@
         "token_type": "Bearer"
     },
     "login": {
-        "success"
+        "success": true
     }
 }
